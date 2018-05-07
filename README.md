@@ -5,7 +5,9 @@ Para realizar testes na API da Intelipost, foi utilizado a linguagem Java, BDD (
 Como estou utilizando BDD, resolvi criar meu projeto com a seguinte estrutura de pastas.
 
 Features -> É onde ficaram as features que descrevem os passos do teste.
+
 Steps -> É onde ficaram os passos para automação dos testes.
+
 Pages -> Onde ficaram classes e métodos utilizados nos Steps dos testes, caso estive usando Selenium os objetos da tela poderiam ficar nesta pasta.
 
 Como estou usando Java para testar as APIs,todas as depencias de bibliotecas estão inseridas no arquivo pom.xml.
