@@ -14,9 +14,15 @@ Como estou usando Java para testar as APIs,todas as depencias de bibliotecas est
 
 Estou usando a IDE Intellij para criar meu projeto e rodar os testes.
 
-Para rodar os testes, basta abrir o projeto no Intellij, ir até a pasta features clicar com o botão direito e mandar rodar todas as features.
+Para rodar os testes, basta abrir o projeto no Intellij, ir até a pasta features clicar com o botão direito depois em Run/all features.
+
+Para gerar um relatório dos testes executados, após a execução dos testes, clicar no botão Export Test Results, escolher o formato do arquivo para visualização do report, inserir o local onde deseja salvar o arquivo e clicar em OK para gerar o arquivo.
 
 ## Informações importantes
 
 Como é apenas uma demonstração de como automatizar, desenvolvi apenas alguns casos de testes, porém em um projeto real a quantidade de casos de testes será bem maior e com maior cobertura.
+
+Conforme citei acima, como é apenas uma demonstração algumas variaveis eu deixei fixa, porém em um projeto real podemos deixar dinâmica.
+
+
 
